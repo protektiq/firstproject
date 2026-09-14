@@ -1,0 +1,21 @@
+# Unreal generated folders
+Binaries/
+Intermediate/
+DerivedDataCache/
+Saved/
+Build/
+Plugins/**/Binaries/
+Plugins/**/Intermediate/
+
+# IDE and generated project files
+.vs/
+.idea/
+*.sln
+*.slnx
+*.VC.db
+*.opensdf
+*.sdf
+*.suo
+
+# Local Claude Code settings
+.claude/settings.local.json
